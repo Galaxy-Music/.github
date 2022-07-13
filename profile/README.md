@@ -1,6 +1,4 @@
 ![Rocketseat](https://storage.googleapis.com/golden-wind/github/rocketseat-banner-github.png)
 
-<h1>Rocketseat</h1>
-<p>Seu ecossistema para aprender e evoluir na programação.</p>
-
-Consulte as [vagas na Rocketseat](https://rocketseat.gupy.io/).
+<h1>Galaxy Music</h1>
+<p>Ouça as suas musicas favorita.</p>
